@@ -1,0 +1,26 @@
+supplier_id,supplier_name,product_id,lead_time_days,on_time_delivery_rate
+S07,Harbor & Co,P001,15,0.925
+S05,Meridian Wholesale,P002,19,0.77
+S01,Global Parts Co,P003,17,0.919
+S07,Harbor & Co,P004,19,0.924
+S05,Meridian Wholesale,P005,16,0.797
+S06,Crestpoint Industries,P006,17,0.797
+S05,Meridian Wholesale,P007,18,0.781
+S05,Meridian Wholesale,P008,15,0.771
+S01,Global Parts Co,P009,18,0.917
+S05,Meridian Wholesale,P010,17,0.733
+S07,Harbor & Co,P011,18,0.867
+S03,Pacific Sourcing Ltd,P012,19,0.82
+S05,Meridian Wholesale,P013,18,0.754
+S01,Global Parts Co,P014,18,0.931
+S03,Pacific Sourcing Ltd,P015,17,0.833
+S04,Union Freight Supply,P016,4,0.875
+S08,Silverline Distributors,P017,17,0.902
+S02,Northline Trading,P018,6,0.926
+S03,Pacific Sourcing Ltd,P019,15,0.882
+S04,Union Freight Supply,P020,3,0.858
+S08,Silverline Distributors,P021,13,0.857
+S07,Harbor & Co,P022,15,0.881
+S01,Global Parts Co,P023,16,0.909
+S02,Northline Trading,P024,8,0.962
+S07,Harbor & Co,P025,18,0.858

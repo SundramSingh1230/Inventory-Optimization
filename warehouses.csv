@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,region
+W1,North DC,North
+W2,South DC,South
+W3,East DC,East
+W4,West DC,West

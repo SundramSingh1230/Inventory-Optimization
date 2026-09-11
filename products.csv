@@ -1,0 +1,26 @@
+product_id,product_name,category,unit_cost,unit_price
+P001,Wireless Mouse,Electronics,62.82,92.67
+P002,USB-C Hub,Home & Kitchen,37.35,64.24
+P003,Bluetooth Speaker,Office Supplies,69.25,92.76
+P004,LED Desk Lamp,Apparel,57.0,82.02
+P005,Noise-Cancel Headphones,Tools,11.16,21.37
+P006,Stainless Steel Water Bottle,Electronics,78.15,153.98
+P007,Non-Stick Frying Pan,Home & Kitchen,61.85,134.26
+P008,Ceramic Mug Set,Office Supplies,63.74,101.55
+P009,Electric Kettle,Apparel,13.74,22.44
+P010,Blender,Tools,38.23,65.86
+P011,A4 Notebook Pack,Electronics,32.18,47.32
+P012,Gel Pens (12-pack),Home & Kitchen,74.43,105.46
+P013,Sticky Notes,Office Supplies,52.93,91.47
+P014,Desk Organizer,Apparel,66.53,100.08
+P015,Stapler,Tools,37.7,71.74
+P016,Cotton T-Shirt,Electronics,21.27,36.02
+P017,Denim Jacket,Home & Kitchen,46.15,94.58
+P018,Running Shoes,Office Supplies,8.85,17.08
+P019,Wool Socks (3-pack),Apparel,66.9,105.78
+P020,Baseball Cap,Tools,52.01,106.57
+P021,Cordless Drill,Electronics,61.61,124.72
+P022,Hammer,Home & Kitchen,30.94,51.01
+P023,Tool Box,Office Supplies,77.77,121.28
+P024,Measuring Tape,Apparel,71.88,137.6
+P025,Screwdriver Set,Tools,63.16,90.05
