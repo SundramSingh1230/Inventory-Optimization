@@ -1,0 +1,64 @@
+product_id,product_name,category,warehouse_id,warehouse_name,supplier_name,lead_time_days,avg_daily_demand,std_daily_demand,recommended_safety_stock,recommended_reorder_point,stock_on_hand,gap_vs_recommended_rop
+P011,A4 Notebook Pack,Electronics,W2,South DC,Harbor & Co,18,13.426229508196721,7.969648709099296,56.0,298.0,24,274.0
+P019,Wool Socks (3-pack),Apparel,W3,East DC,Pacific Sourcing Ltd,15,17.244444444444444,9.777421940265226,62.0,321.0,60,261.0
+P004,LED Desk Lamp,Apparel,W3,East DC,Harbor & Co,19,15.071428571428571,7.394978991566796,53.0,339.0,78,261.0
+P002,USB-C Hub,Home & Kitchen,W2,South DC,Meridian Wholesale,19,12.912280701754385,8.46480254970627,61.0,306.0,47,259.0
+P010,Blender,Tools,W2,South DC,Meridian Wholesale,17,14.24,8.3239511810982,57.0,299.0,41,258.0
+P013,Sticky Notes,Office Supplies,W3,East DC,Meridian Wholesale,18,15.938775510204081,8.239660599971401,58.0,345.0,91,254.0
+P008,Ceramic Mug Set,Office Supplies,W4,West DC,Meridian Wholesale,15,14.107142857142858,8.92326595617744,57.0,269.0,16,253.0
+P002,USB-C Hub,Home & Kitchen,W3,East DC,Meridian Wholesale,19,14.89795918367347,9.007508206026383,65.0,348.0,96,252.0
+P003,Bluetooth Speaker,Office Supplies,W3,East DC,Global Parts Co,17,14.65,9.65706862142826,66.0,315.0,73,242.0
+P013,Sticky Notes,Office Supplies,W4,West DC,Meridian Wholesale,18,13.203703703703704,7.015830158734777,49.0,287.0,64,223.0
+P015,Stapler,Tools,W3,East DC,Pacific Sourcing Ltd,17,14.617647058823529,7.769461218722538,53.0,302.0,80,222.0
+P012,Gel Pens (12-pack),Home & Kitchen,W3,East DC,Pacific Sourcing Ltd,19,12.526315789473685,7.471625523935524,54.0,292.0,77,215.0
+P010,Blender,Tools,W3,East DC,Meridian Wholesale,17,13.62,7.750944642889849,53.0,285.0,72,213.0
+P015,Stapler,Tools,W2,South DC,Pacific Sourcing Ltd,17,12.4375,7.316278120186172,50.0,261.0,52,209.0
+P025,Screwdriver Set,Tools,W3,East DC,Harbor & Co,18,13.923076923076923,6.4833002786983975,45.0,296.0,87,209.0
+P014,Desk Organizer,Apparel,W4,West DC,Global Parts Co,18,13.576923076923077,7.882336057252127,55.0,299.0,94,205.0
+P014,Desk Organizer,Apparel,W1,North DC,Global Parts Co,18,13.701754385964913,9.884990267140054,69.0,316.0,112,204.0
+P002,USB-C Hub,Home & Kitchen,W1,North DC,Meridian Wholesale,19,10.88679245283019,6.9022303456605485,50.0,257.0,65,192.0
+P009,Electric Kettle,Apparel,W2,South DC,Global Parts Co,18,15.311475409836065,9.184299979868829,64.0,340.0,161,179.0
+P025,Screwdriver Set,Tools,W4,West DC,Harbor & Co,18,14.209302325581396,7.462790680419517,52.0,308.0,132,176.0
+P012,Gel Pens (12-pack),Home & Kitchen,W2,South DC,Pacific Sourcing Ltd,19,13.903846153846153,7.799596810556288,56.0,320.0,146,174.0
+P023,Tool Box,Office Supplies,W4,West DC,Global Parts Co,16,12.555555555555555,8.33194957064664,55.0,256.0,83,173.0
+P019,Wool Socks (3-pack),Apparel,W1,North DC,Pacific Sourcing Ltd,15,13.851063829787234,9.033701931256848,58.0,266.0,96,170.0
+P015,Stapler,Tools,W1,North DC,Pacific Sourcing Ltd,17,15.211538461538462,8.462921524153577,58.0,317.0,149,168.0
+P009,Electric Kettle,Apparel,W1,North DC,Global Parts Co,18,13.791666666666666,7.508741950137777,53.0,301.0,133,168.0
+P002,USB-C Hub,Home & Kitchen,W4,West DC,Meridian Wholesale,19,14.34,8.920533524814923,64.0,336.0,168,168.0
+P022,Hammer,Home & Kitchen,W3,East DC,Harbor & Co,15,14.431372549019608,8.92693654499859,57.0,273.0,107,166.0
+P001,Wireless Mouse,Electronics,W1,North DC,Harbor & Co,15,14.58695652173913,7.637847535519769,49.0,268.0,107,161.0
+P021,Cordless Drill,Electronics,W3,East DC,Silverline Distributors,13,13.037037037037036,7.8739191242964175,47.0,216.0,63,153.0
+P005,Noise-Cancel Headphones,Tools,W4,West DC,Meridian Wholesale,16,14.142857142857142,9.390112673864705,62.0,288.0,136,152.0
+P007,Non-Stick Frying Pan,Home & Kitchen,W2,South DC,Meridian Wholesale,18,15.116279069767442,7.4776151734473855,52.0,324.0,173,151.0
+P008,Ceramic Mug Set,Office Supplies,W3,East DC,Meridian Wholesale,15,13.123287671232877,8.303187482794137,53.0,250.0,108,142.0
+P003,Bluetooth Speaker,Office Supplies,W2,South DC,Global Parts Co,17,12.615384615384615,8.373988311511265,57.0,271.0,132,139.0
+P003,Bluetooth Speaker,Office Supplies,W4,West DC,Global Parts Co,17,11.622222222222222,7.243457514728499,49.0,247.0,110,137.0
+P022,Hammer,Home & Kitchen,W2,South DC,Harbor & Co,15,12.8,8.926448424848566,57.0,249.0,114,135.0
+P009,Electric Kettle,Apparel,W4,West DC,Global Parts Co,18,14.074074074074074,8.654482646652077,61.0,314.0,188,126.0
+P007,Non-Stick Frying Pan,Home & Kitchen,W4,West DC,Meridian Wholesale,18,12.2,6.376804557428146,45.0,265.0,140,125.0
+P017,Denim Jacket,Home & Kitchen,W3,East DC,Silverline Distributors,17,12.724137931034482,7.480484793953603,51.0,267.0,148,119.0
+P012,Gel Pens (12-pack),Home & Kitchen,W4,West DC,Pacific Sourcing Ltd,19,13.745454545454546,7.700933521617824,55.0,316.0,199,117.0
+P014,Desk Organizer,Apparel,W3,East DC,Global Parts Co,18,13.375,7.94026903451171,56.0,297.0,185,112.0
+P013,Sticky Notes,Office Supplies,W2,South DC,Meridian Wholesale,18,12.898305084745763,8.328792840573032,58.0,290.0,194,96.0
+P007,Non-Stick Frying Pan,Home & Kitchen,W3,East DC,Meridian Wholesale,18,12.959183673469388,8.261252890435438,58.0,291.0,203,88.0
+P005,Noise-Cancel Headphones,Tools,W2,South DC,Meridian Wholesale,16,12.191489361702128,6.120664562782522,40.0,235.0,159,76.0
+P017,Denim Jacket,Home & Kitchen,W4,West DC,Silverline Distributors,17,11.346938775510203,6.111979427076534,42.0,235.0,161,74.0
+P024,Measuring Tape,Apparel,W2,South DC,Northline Trading,8,12.660377358490566,7.912850785094447,37.0,138.0,70,68.0
+P022,Hammer,Home & Kitchen,W1,North DC,Harbor & Co,15,12.925925925925926,7.268053259511019,46.0,240.0,172,68.0
+P004,LED Desk Lamp,Apparel,W2,South DC,Harbor & Co,19,13.117647058823529,7.380100429732728,53.0,302.0,238,64.0
+P017,Denim Jacket,Home & Kitchen,W1,North DC,Silverline Distributors,17,14.148148148148149,8.085410591334753,55.0,296.0,232,64.0
+P005,Noise-Cancel Headphones,Tools,W1,North DC,Meridian Wholesale,16,13.425531914893616,9.128895073030147,60.0,275.0,224,51.0
+P024,Measuring Tape,Apparel,W4,West DC,Northline Trading,8,15.183673469387756,9.375663241845336,44.0,165.0,116,49.0
+P016,Cotton T-Shirt,Electronics,W3,East DC,Union Freight Supply,4,13.982456140350877,8.208208496181854,27.0,83.0,37,46.0
+P004,LED Desk Lamp,Apparel,W1,North DC,Harbor & Co,19,14.6,7.362567990002361,53.0,330.0,289,41.0
+P008,Ceramic Mug Set,Office Supplies,W1,North DC,Meridian Wholesale,15,12.488372093023257,9.984206797841269,64.0,251.0,212,39.0
+P006,Stainless Steel Water Bottle,Electronics,W4,West DC,Crestpoint Industries,17,13.282608695652174,7.932109271052857,54.0,280.0,246,34.0
+P006,Stainless Steel Water Bottle,Electronics,W2,South DC,Crestpoint Industries,17,12.0,9.1804139340228,62.0,266.0,235,31.0
+P020,Baseball Cap,Tools,W2,South DC,Union Freight Supply,3,12.62,8.22859623012135,24.0,62.0,36,26.0
+P009,Electric Kettle,Apparel,W3,East DC,Global Parts Co,18,12.592592592592593,7.834414930458151,55.0,282.0,258,24.0
+P021,Cordless Drill,Electronics,W4,West DC,Silverline Distributors,13,14.764705882352942,8.174566007548334,49.0,241.0,223,18.0
+P010,Blender,Tools,W1,North DC,Meridian Wholesale,17,15.378378378378379,6.722067106641097,46.0,307.0,289,18.0
+P012,Gel Pens (12-pack),Home & Kitchen,W1,North DC,Pacific Sourcing Ltd,19,13.30188679245283,7.887636151843,57.0,310.0,296,14.0
+P010,Blender,Tools,W4,West DC,Meridian Wholesale,17,13.976190476190476,7.955633363016194,54.0,292.0,283,9.0
+P006,Stainless Steel Water Bottle,Electronics,W1,North DC,Crestpoint Industries,17,15.615384615384615,7.664928650791178,52.0,317.0,313,4.0
+P001,Wireless Mouse,Electronics,W4,West DC,Harbor & Co,15,13.627906976744185,8.544068551908516,55.0,259.0,257,2.0
